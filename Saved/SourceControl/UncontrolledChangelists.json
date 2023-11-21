@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Tyler/Documents/Unreal Projects/LevelDesign/Content/Hour_of_Code/Widgets/WB_GameOver.uasset",
+				"C:/Users/Tyler/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Tyler/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Maps/MP2_LevelDesign.umap",
+				"C:/Users/Tyler/Documents/Unreal Projects/LevelDesign/Content/WBP_Restart.uasset",
 				"C:/Users/Tyler/Documents/Unreal Projects/CS415MP2/Content/Health_Bar_Materials/IMG_BlackSquareDark_Flat.uasset",
 				"C:/Users/Tyler/Documents/Unreal Projects/CS415MP2/Content/Health_Bar_Materials/IMG_BlackSquare_Flat.uasset",
 				"C:/Users/Tyler/Documents/Unreal Projects/CS415MP2/Content/Health_Bar_Materials/IMG_BlueSquare_Flat.uasset",
